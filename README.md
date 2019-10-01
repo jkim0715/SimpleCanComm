@@ -21,7 +21,7 @@
 
 
 
-- LattePanda : [Update Soon...](#introduction)
+- LattePanda : [can](/can)
   - SerialTest.java
     - SerialWriter
       - Send the data using can bus to IoT device
@@ -34,7 +34,7 @@
 
 
 
-- LattePanda : [src](/src)
+- LattePanda : [CAN](/CAN)
   - SerialTest.java
     - SerialWriter
       - Send the data using can bus to IoT device
