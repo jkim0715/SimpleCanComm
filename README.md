@@ -22,7 +22,7 @@
 
 
 - LattePanda : [can](/can)
-  - SerialTest.java
+  - SerialTestS.java
     - SerialWriter
       - Send the data using can bus to IoT device
     - SerialEvent
