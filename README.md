@@ -1,4 +1,4 @@
-# SimpleCANComm
+# Simple_CAN_Comm
 
 ## Introduction
 
